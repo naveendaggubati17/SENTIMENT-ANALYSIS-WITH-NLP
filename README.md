@@ -105,3 +105,8 @@ Classification Report:
     accuracy                           0.51       592
     macro avg       0.17      0.20      0.14       592
     weighted avg       0.33      0.51      0.35       592
+
+
+CONFUSION MATRIX:
+
+![Image](https://github.com/user-attachments/assets/c48d5781-352d-4914-bf0a-54145e3ffb54)
